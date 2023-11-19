@@ -26,7 +26,17 @@ This system is designed to efficiently ingest, store, and query vast volumes of 
        - commit
        - metadata.parentResourceId
    - Implements efficient search algorithms for quick results.
-  
+
+  3. ## Advanced Features (Bonus):
+
+These features aren’t compulsory to implement, however, adding them might increase the chances of your submission being accepted.
+
+- Implement search within specific date ranges.
+- Utilize regular expressions for search.
+- Allow combining multiple filters.
+- Provide real-time log ingestion and searching capabilities.
+- Implement role-based access to the query interface.
+- 
  ## How to Run the Project
  ### Installation
 
