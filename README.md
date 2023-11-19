@@ -35,8 +35,7 @@ These features aren’t compulsory to implement, however, adding them might incr
 - Utilize regular expressions for search.
 - Allow combining multiple filters.
 - Provide real-time log ingestion and searching capabilities.
-- Implement role-based access to the query interface.
-- 
+ 
  ## How to Run the Project
  ### Installation
 
